@@ -10,6 +10,7 @@ The Car Landing Page is a visually appealing web page created to showcase a spec
 _desktop version_
 
 ![Screenshot 2](images/s2.png)
+
 _mobile view_
 
 ## Technologies Used
